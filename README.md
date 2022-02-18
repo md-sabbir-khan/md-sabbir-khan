@@ -1,6 +1,5 @@
 ![](https://github.com/md-sabbir-khan/md-sabbir-khan/blob/main/240_F.jpg)
 <h1 align="center">Hi 👋, I'm Md Sabbir Khan</h1>
-![alt text](https://user-images.githubusercontent.com/64284482/154755706-b51f03f3-b42a-48d0-bb9d-9fe29300d8ce.gif)
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-sabbir-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-sabbir-khan" /> </p>
