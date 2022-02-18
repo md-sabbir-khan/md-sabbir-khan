@@ -1,5 +1,5 @@
 ![](https://github.com/md-sabbir-khan/md-sabbir-khan/blob/main/240_F.jpg)
-<h1 align="center">Hi 👋, I'm Md Sabbir Khan</h1>
+<h1 align="center">Hi 👋, I'm Md Sabbir Khan ![gif](https://user-images.githubusercontent.com/64284482/154755706-b51f03f3-b42a-48d0-bb9d-9fe29300d8ce.gif)</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-sabbir-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-sabbir-khan" /> </p>
@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-sabbir-khan" alt="md-sabbir-khan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-![gif](https://user-images.githubusercontent.com/64284482/154755706-b51f03f3-b42a-48d0-bb9d-9fe29300d8ce.gif)
 
 - 🌱 I’m currently learning **RedHat openshift, Big-Data Hadoop,Big-Data Hadoop,AWS-CSA**
 
