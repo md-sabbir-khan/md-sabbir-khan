@@ -1,4 +1,4 @@
-![](https://github.com/md-sabbir-khan/md-sabbir-khan/blob/main/Devopsbanner.png)
+![](https://github.com/md-sabbir-khan/md-sabbir-khan/blob/main/240_F.jpg)
 <h1 align="center">Hi 👋, I'm Md Sabbir Khan</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
