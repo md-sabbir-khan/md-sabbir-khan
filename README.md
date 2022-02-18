@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+![gif](https://user-images.githubusercontent.com/64284482/154755706-b51f03f3-b42a-48d0-bb9d-9fe29300d8ce.gif)
+
 - 🌱 I’m currently learning **RedHat openshift, Big-Data Hadoop,Big-Data Hadoop,AWS-CSA**
 
 - 💬 Ask me about **Linux,Shell Script,Docker,Kubernetes,Podman,Openshift,jenkins,git & GitHub,Python**
