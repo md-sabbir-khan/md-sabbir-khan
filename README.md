@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **RedHat openshift, Big-Data Hadoop,Big-Data Hadoop,AWS-CSA**
 
-#- 📝 I regularly write articles on [kjvhvkjvcj.com](kjvhvkjvcj.com)
-
 - 💬 Ask me about **Linux,Shell Script,Docker,Kubernetes,Podman,Openshift,jenkins,git & GitHub,Python**
 
 - 📫 How to reach me **khan.mdsabbir@gmail.com**
