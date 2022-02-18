@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **RedHat openshift, Big-Data Hadoop,Big-Data Hadoop,AWS-CSA**
+- 🌱 I’m currently learning **RedHat openshift,Big-Data Hadoop,AWS-CSA**
 
 - 💬 Ask me about **Linux,Shell Script,Docker,Kubernetes,Podman,Openshift,jenkins,git & GitHub,Python**
 
