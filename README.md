@@ -20,6 +20,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto Deploy Web Server using Jenkins](https://www.linkedin.com/posts/md-sabbir-khan-40428295_righteducation-vimaldaga-mlops-activity-6680197188108345345-ysVf)
+- [Auto deploy Web-Server using Jenkins container and Monitoring](https://www.linkedin.com/posts/md-sabbir-khan-40428295_righteducation-vimaldaga-mlops-activity-6682326639470280705-EoLo/)
+- [Auto Deploying web-server using Jenkins and Kubernetes](https://www.linkedin.com/posts/md-sabbir-khan-40428295_task-agile-vimaldaga-activity-6717889208490565632-tTcP)
+- [Auto Block Malicious IP Address using Machine Learning](https://www.linkedin.com/feed/update/urn:li:activity:6688751416569409537)
+- [Machine Learning in DevOps](https://www.linkedin.com/feed/update/urn:li:activity:6688744669314187264)
+- [Auto Deploy Web-Server infrastructure using Terraform](https://www.linkedin.com/posts/md-sabbir-khan-40428295_vimaldaga-terraform-aws-activity-6679049208361816064-2Td0)
+- [Deploy WordPress and MySQL on the top of AWS EKS](https://www.linkedin.com/posts/md-sabbir-khan-40428295_eks-vimaldaga-aws-activity-6691455366259179520-8nqd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
