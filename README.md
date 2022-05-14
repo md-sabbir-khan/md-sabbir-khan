@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **khan.mdsabbir@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AUGiPUFRHvHYukDo-yV7Ix3S72NgxSWk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11NEZy95c0ivMv1MPrGGq253i5sam-mPe/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am Crezy**
 
